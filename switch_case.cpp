@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int a;
-    cinn >> a;
+    cin >> a;
     switch(a) {
         case 0:
             cout << "a bang khong";
